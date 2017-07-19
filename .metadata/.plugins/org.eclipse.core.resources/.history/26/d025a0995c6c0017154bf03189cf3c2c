@@ -1,0 +1,29 @@
+from django.shortcuts import render
+from django.shortcuts import get_list_or_404
+from rest_framework.views import APIView
+from rest_framework.response import Response
+from .models import PromotionAd
+from .serializers import PromotionSerializer
+from rest_framework.request import Request
+
+from rest_framework.authentication import SessionAuthentication, BasicAuthentication
+from rest_framework.permissions import IsAuthenticated
+from rest_framework.response import Response
+from rest_framework.views import APIView
+import sys
+# Create your views here.
+
+
+
+class PromotionList(APIView):
+    
+    
+    def get(self,Request,token):
+        print("fuck you")
+        promotion = PromotionAd.objects.all()
+        serializer = PromotionSerializer(promotion, many = True)
+        return Response(serializer.data)
+        pass
+    def post(self):
+        pass
+    

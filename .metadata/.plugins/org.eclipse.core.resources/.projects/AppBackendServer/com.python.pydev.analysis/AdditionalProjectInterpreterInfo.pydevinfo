@@ -1,0 +1,77 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\god father\Desktop\Django-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\AppBackendServer\com.python.pydev.analysis\v2_indexcache
+fetchdata|1500446077551640000|C:\Users\god father\Desktop\Django-workspace\AppBackendServer\fetchdata.py
+AppBackendServer.AppBackEndApi.views|1500449964159554000|C:\Users\god father\Desktop\Django-workspace\AppBackendServer\AppBackendServer\AppBackEndApi\views.py
+AppBackendServer.AppBackEndApi.__init__|1500441281412235000|C:\Users\god father\Desktop\Django-workspace\AppBackendServer\AppBackendServer\AppBackEndApi\__init__.py
+AppBackendServer.AppBackEndApi.serializers|1500443589798160000|C:\Users\god father\Desktop\Django-workspace\AppBackendServer\AppBackendServer\AppBackEndApi\serializers.py
+AppBackendServer.AppBackendServer.settings|1500449302611123000|C:\Users\god father\Desktop\Django-workspace\AppBackendServer\AppBackendServer\AppBackendServer\settings.py
+AppBackendServer.AppBackendServer.urls|1500444214961908000|C:\Users\god father\Desktop\Django-workspace\AppBackendServer\AppBackendServer\AppBackendServer\urls.py
+AppBackendServer.AppBackEndApi.tests|1500441281399223000|C:\Users\god father\Desktop\Django-workspace\AppBackendServer\AppBackendServer\AppBackEndApi\tests.py
+AppBackendServer.AppBackendServer.wsgi|1500440989070823000|C:\Users\god father\Desktop\Django-workspace\AppBackendServer\AppBackendServer\AppBackendServer\wsgi.py
+AppBackendServer.AppBackEndApi.admin|1500442813703550000|C:\Users\god father\Desktop\Django-workspace\AppBackendServer\AppBackendServer\AppBackEndApi\admin.py
+AppBackendServer.AppBackEndApi.apps|1500441281375422000|C:\Users\god father\Desktop\Django-workspace\AppBackendServer\AppBackendServer\AppBackEndApi\apps.py
+AppBackendServer.AppBackEndApi.models|1500449977400043000|C:\Users\god father\Desktop\Django-workspace\AppBackendServer\AppBackendServer\AppBackEndApi\models.py
+AppBackendServer.AppBackEndApi.migrations.__init__|1500441281415168000|C:\Users\god father\Desktop\Django-workspace\AppBackendServer\AppBackendServer\AppBackEndApi\migrations\__init__.py
+AppBackendServer.AppBackendServer.__init__|1500440989072823000|C:\Users\god father\Desktop\Django-workspace\AppBackendServer\AppBackendServer\AppBackendServer\__init__.py
+AppBackendServer.manage|1500440988992265000|C:\Users\god father\Desktop\Django-workspace\AppBackendServer\AppBackendServer\manage.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+4=fetchdata
+6=AppBackendServer.AppBackEndApi.views
+7=AppBackendServer.AppBackEndApi.serializers
+13=PromotionSerializer
+1=AppBackendServer.AppBackendServer.settings
+8=AppBackendServer.AppBackendServer.urls
+2=AppBackendServer.AppBackendServer.wsgi
+14=AppbackendapiConfig
+10=ExampleView
+3=AppBackendServer.AppBackEndApi.apps
+5=AppBackendServer.AppBackEndApi.models
+12=PromotionList
+9=PromotionAd
+11=PromotionSerializer.Meta
+-- END DICTIONARY
+-- START TREE 1
+24
+all|1|ALLOWED_HOSTS!11@
+app|2|application!19@AppbackendapiConfig!25@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+con|1|connection!35@
+cre|1|create_auth_token!42@
+cur|1|cursor!35@
+d|1|d!35@
+dat|2|DATABASES!11@data!35@
+deb|1|DEBUG!11@
+exa|1|ExampleView!49@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE!11@
+pro|3|PromotionAd!41@PromotionSerializer!57@PromotionList!49@
+res|1|REST_FRAMEWORK!11@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|1|TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!67@
+use|4|USE_L10N!11@user_list!35@USE_I18N!11@USE_TZ!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+12
+__s|1|__str__!9&42@
+adb|1|adBill!9&43@
+adt|1|adText!9&43@
+aut|1|authentication_classes!10&51@
+fie|1|fields!11&59@
+get|2|get!12&50@get!10&50@
+met|1|Meta!13&57@
+mod|1|model!11&59@
+nam|1|name!14&27@
+per|1|permission_classes!10&51@
+pos|1|post!12&50@
+vol|1|volume!9&43@
+-- END TREE

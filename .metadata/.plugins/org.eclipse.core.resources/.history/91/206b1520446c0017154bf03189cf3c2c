@@ -1,0 +1,14 @@
+from django.db import models
+from unittest.util import _MAX_LENGTH
+
+
+
+class PromotionAd(models.Model):
+    adText = models.CharField(_MAX_LENGTH = 30)
+    adBill = models.IntegerField()
+    volume = models.IntegerField()
+    
+    def __str__(self):
+        return self.adText
+    
+    

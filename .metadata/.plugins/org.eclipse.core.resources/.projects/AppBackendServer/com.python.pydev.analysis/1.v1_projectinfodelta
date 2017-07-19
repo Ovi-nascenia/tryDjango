@@ -1,0 +1,10 @@
+INSTUPAppBackendServer.AppBackEndApi.models
+C:\Users\god father\Desktop\Django-workspace\AppBackendServer\AppBackendServer\AppBackEndApi\models.py
+INFOS:&&2|1|2|0&&1|3|2|0&&3|4|2|3&&3|5|2|3&&3|6|2|3&&2|7|2|3
+volume=6
+create_auth_token=1
+AppBackendServer.AppBackEndApi.models=2
+__str__=7
+PromotionAd=3
+adBill=5
+adText=4
